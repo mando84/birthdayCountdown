@@ -1,0 +1,23 @@
+.countdown-timer {
+  height: 100px;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-family: "Times New Roman";
+  font-size: 50px;
+
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.countdown-timer span {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.two-numbers {
+  width: 2ch;
+}
