@@ -51,7 +51,7 @@ export function getBirthdaySpelled(month, day) {
   } else if (day === "11") {
     d = "Eleventh";
   } else if (day === "12") {
-    d = "Twelveth";
+    d = "Twelfth";
   } else if (day === "13") {
     d = "Thirteenth";
   } else if (day === "14") {
